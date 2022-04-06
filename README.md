@@ -1,0 +1,2 @@
+# Bear Classifier
+This notebook will allow you to upload an image of a bear and tell you what kind of bear is in the image. Specifically, it allows you to upload an image of any size of either a black bear, a grizzly bear, or a teddy bear, and reports the percentage chance the picture is of the reported bear category.
